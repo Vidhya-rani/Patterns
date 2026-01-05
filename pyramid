@@ -18,3 +18,10 @@ public class pyramid {
         }
     }
 }
+o/p:
+Enter the number:
+4
+   *
+  ***
+ *****
+*******
